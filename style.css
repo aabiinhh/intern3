@@ -1,0 +1,20 @@
+h1{
+    color: blueviolet;
+    font-size: 40px ;
+}
+p{
+    color:darkseagreen;
+}
+strong{
+    background-color: aquamarine;
+}
+body{
+    background: url("NNat.jpg");
+    background-repeat: no-repeat;
+}
+.special-heading{
+    color:brown;
+}
+#heading-style{
+    color:bisque;
+}
